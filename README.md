@@ -73,7 +73,7 @@ Found a ShadowKami tool useful?
 
 Your support helps keep the projects alive and makes it possible to build and release more tools.
 
-### [☕ Buy Me a Coffee](YOUR_BMC_LINK)
+### [☕ Buy Me a Coffee](https://buymeacoffee.com/uroshan)
 
 ---
 
