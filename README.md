@@ -1,27 +1,100 @@
 # ShadowKami 🖤
 
-> Simple tools. Useful apps. Built for everyone.
+> **Build. Automate. Experiment. Repeat.**
 
-ShadowKami is a collection of applications and utilities
-designed to solve everyday problems.
+```text
+╭──────────────────────────────────────────────╮
+│                                              │
+│   SHADOWKAMI                                 │
+│                                              │
+│   [ SYSTEM ]     ONLINE                      │
+│   [ APPS ]       ACTIVE                      │
+│   [ AI ]         RUNNING                     │
+│   [ IDEAS ]      BUILDING                    │
+│                                              │
+╰──────────────────────────────────────────────╯
+```
 
-## 🚀 Explore
+**ShadowKami** is a collection of useful applications, AI tools, automation utilities, and experimental projects — built to solve real problems and make everyday tasks easier.
 
-🔹 **Apps** — Useful desktop & web applications  
-🔹 **AI Tools** — Practical AI-powered utilities  
-🔹 **Automation** — Tools that save time  
-🔹 **Experiments** — Interesting projects & ideas  
+---
+
+## ⚡ What We Build
+
+**🖥️ Apps**
+Desktop and web applications designed for practical everyday use.
+
+**🤖 AI / ML**
+Tools powered by Artificial Intelligence and Machine Learning.
+
+**⚙️ Automation**
+Utilities that eliminate repetitive tasks and save time.
+
+**🧪 Experiments**
+Interesting ideas, prototypes, and projects built just to see what's possible.
 
 ---
 
-### ☕ Support the Project
+## 🚀 Projects
 
-Enjoying a ShadowKami app?
+```text
+┌─────────────────────────────────────────────┐
+│                                             │
+│  📦  USEFUL APPS                            │
+│  🤖  AI TOOLS                               │
+│  ⚙️  AUTOMATION                             │
+│  🧰  UTILITIES                              │
+│  🧪  EXPERIMENTS                            │
+│                                             │
+└─────────────────────────────────────────────┘
+```
 
-[☕ Buy Me a Coffee](YOUR_BMC_LINK)
+> New projects are added as they are built.
 
 ---
+
+## 🛠️ Built With
+
+```text
+Python       ████████████████████
+AI / ML      ██████████████████
+Automation   ████████████████
+Web          ██████████████
+Linux        ████████████
+```
+
+`Python` · `AI/ML` · `React` · `FastAPI` · `Linux` · `Automation`
+
+---
+
+## ☕ Support the Project
+
+Found a ShadowKami tool useful?
+
+Your support helps keep the projects alive and makes it possible to build and release more tools.
+
+### [☕ Buy Me a Coffee](YOUR_BMC_LINK)
+
+---
+
+```text
+$ git clone shadowkami
+$ cd shadowkami
+$ ./build.sh
+
+> initializing...
+> building...
+> done.
+
+──────────────────────────────────────────────
+
+        BUILD • BREAK • FIX • REPEAT
+
+──────────────────────────────────────────────
+```
 
 <p align="center">
-  <sub>More tools coming soon...</sub>
+  <b>ShadowKami</b>
+  <br>
+  <sub>More tools coming soon.</sub>
 </p>
