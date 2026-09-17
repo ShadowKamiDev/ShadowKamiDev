@@ -1,16 +1,27 @@
-## Hi there 👋
+# ShadowKami 🖤
 
-<!--
-**ShadowKamiDev/ShadowKamiDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> Simple tools. Useful apps. Built for everyone.
 
-Here are some ideas to get you started:
+ShadowKami is a collection of applications and utilities
+designed to solve everyday problems.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Explore
+
+🔹 **Apps** — Useful desktop & web applications  
+🔹 **AI Tools** — Practical AI-powered utilities  
+🔹 **Automation** — Tools that save time  
+🔹 **Experiments** — Interesting projects & ideas  
+
+---
+
+### ☕ Support the Project
+
+Enjoying a ShadowKami app?
+
+[☕ Buy Me a Coffee](YOUR_BMC_LINK)
+
+---
+
+<p align="center">
+  <sub>More tools coming soon...</sub>
+</p>
